@@ -1,0 +1,4 @@
+names:
+- IMA
+train: datasets/images/train
+val: datasets/images/val
