@@ -1,2 +1,0 @@
-ffmpeg -i low_anterior_robotic.mp4 -ss 00:30:00 -to 00:43:15 -vf fps=3 %04d.jpg
-ffmpeg -i V001_001.MP4 -ss 00:00:00 -to 00:11:59 -vf fps=3 %04d.jpg
